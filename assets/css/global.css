@@ -1,0 +1,33 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+:root {
+    
+    /* fonts */
+    --font-inter: Inter;
+    
+    /* font sizes */
+    --font-size-xl: 16px;
+    --font-size-9xl: 28px;
+    --font-size-7xl: 26px;
+    --font-size-45xl: 64px;
+    
+    /* Colors */
+    --color-whitesmoke-100: #efeded;
+    --color-orange: #fdb62a;
+    --color-olive: #aea433;
+    --color-black: #000;
+    --color-skyblue: #76b3d0;
+    --color-plum: #febaed;
+    --color-orangered: #ff6c1f;
+    --color-white: #fff;
+    
+    /* Border radiuses */
+    --br-12xl: 31px;
+    --br-15xl: 34px;
+    
+}
